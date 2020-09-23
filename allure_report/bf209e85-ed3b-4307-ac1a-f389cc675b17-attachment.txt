@@ -1,0 +1,7 @@
+INFO     dingqin:basepage.py:159 点击元素--('xpath', "//a/img[@title='添加']")--成功
+INFO     dingqin:basepage.py:177 输入文本--('xpath', '//input[@placeholder="请输入名称"]')--成功
+INFO     dingqin:basepage.py:177 输入文本--('xpath', '//input[@placeholder="请输入联系人"]')--成功
+INFO     dingqin:basepage.py:159 点击元素--('xpath', '//button[@class="ant-btn ant-btn-default"]')--成功
+INFO     dingqin:basepage.py:116 元素--('xpath', "//*[contains(text(),'请将信息填写完整！')]")--获取文本成功
+INFO     dingqin:basepage.py:159 点击元素--('xpath', '(//button[@aria-label="Close"])[1]')--成功
+ERROR    dingqin:test_07warehouse.py:60 用例--仓库联系人为空--通过

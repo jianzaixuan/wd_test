@@ -1,0 +1,7 @@
+2020-09-11 14:25:34,304 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', "//a/img[@title='添加']")--成功
+2020-09-11 14:25:35,060 -- [basepage.py-->line:177] - INFO: 输入文本--('xpath', '//input[@placeholder="请输入名称"]')--成功
+2020-09-11 14:25:35,177 -- [basepage.py-->line:177] - INFO: 输入文本--('xpath', '//input[@placeholder="请输入联系人"]')--成功
+2020-09-11 14:25:35,380 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', '//button[@class="ant-btn ant-btn-default"]')--成功
+2020-09-11 14:25:35,575 -- [basepage.py-->line:116] - INFO: 元素--('xpath', "//*[contains(text(),'请将信息填写完整！')]")--获取文本成功
+2020-09-11 14:25:35,891 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', '(//button[@aria-label="Close"])[1]')--成功
+2020-09-11 14:25:35,892 -- [test_07warehouse.py-->line:60] - ERROR: 用例--仓库名字为空--通过

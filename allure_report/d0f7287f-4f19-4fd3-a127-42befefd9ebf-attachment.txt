@@ -1,0 +1,11 @@
+2020-09-11 14:25:15,442 -- [basepage.py-->line:177] - INFO: 输入文本--('xpath', "//input[@ng-model='username']")--成功
+2020-09-11 14:25:15,696 -- [basepage.py-->line:177] - INFO: 输入文本--('xpath', "//input[@placeholder='输入密码']")--成功
+2020-09-11 14:25:15,903 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', "//button[text()='登录']")--成功
+2020-09-11 14:25:25,829 -- [basepage.py-->line:41] - INFO: 等待元素--('xpath', "//span[text()='仓库管理']")--成功
+2020-09-11 14:25:29,269 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', "//a/img[@title='添加']")--成功
+2020-09-11 14:25:29,752 -- [basepage.py-->line:177] - INFO: 输入文本--('xpath', '//input[@placeholder="请输入名称"]')--成功
+2020-09-11 14:25:30,021 -- [basepage.py-->line:177] - INFO: 输入文本--('xpath', '//input[@placeholder="请输入联系人"]')--成功
+2020-09-11 14:25:30,491 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', '//button[@class="ant-btn ant-btn-default"]')--成功
+2020-09-11 14:25:30,682 -- [basepage.py-->line:116] - INFO: 元素--('xpath', "//*[contains(text(),'请将信息填写完整！')]")--获取文本成功
+2020-09-11 14:25:31,033 -- [basepage.py-->line:159] - INFO: 点击元素--('xpath', '(//button[@aria-label="Close"])[1]')--成功
+2020-09-11 14:25:31,034 -- [test_07warehouse.py-->line:60] - ERROR: 用例--字段输入都为空--通过
