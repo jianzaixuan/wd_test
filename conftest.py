@@ -125,7 +125,6 @@ def get_option():
     if conf.getboolean('env', "headless"):
         """设置浏览启动的选项：无头模式"""
         opt = webdriver.ChromeOptions()
-        opt.binary_location = r"C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe"
         opt.add_argument('--no-sandbox')
         opt.add_argument("window-size=1200x600")
         # opt=Options()
