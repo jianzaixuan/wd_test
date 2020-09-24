@@ -49,5 +49,3 @@ class Test_Login():
             raise e
         else:
             my_log.error("用例----{}---通过".format(case["title"]))
-if __name__ == "__main__":
-    pytest.main()
