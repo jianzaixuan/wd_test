@@ -23,7 +23,7 @@ import os
 
 from common.send_email import send_smg
 
-pytest.main(["-m goodno"])
+pytest.main()
 
 # pytest.main()
 # 运行测试用例，生成测试报告
