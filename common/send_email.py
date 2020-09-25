@@ -12,19 +12,7 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from common.handle_path import REPORT_DIR
-"""
-我qq邮箱的账号以及smtp服务的授权码
-账号：394597923@qq.com
-授权码：hpddinkqlmosbjba
 
-163的账号信息
-
-账号 jianziaxuan@163.com
-授权码：SASBCFEXMITFUFCO
-qq邮箱的smtp服务器地址：smtp.qq.com,端口：465
-163邮箱的smtp服务器地址：smtp.163.com，端口：465 （25）
-
-"""
 
 def send_smg():
     # 第一步：连接smtp服务器，并登录
